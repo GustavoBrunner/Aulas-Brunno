@@ -4,7 +4,7 @@ public class Collectable : MonoBehaviour {
 
 
     void Start() {
-        
+        var test = 10;
     }
 
     void Update() {
@@ -12,7 +12,7 @@ public class Collectable : MonoBehaviour {
     }
 
     public void Interact() {
-        Debug.Log("Player interagiu com o colet·vel");
+        Debug.Log("Player interagiu com o colet√°vel");
         Destroy(gameObject);
     }
 }
