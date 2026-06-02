@@ -1359,7 +1359,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 16d40bd7bdc310644b0128fc0602f85d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HpBar: {fileID: 0}
+  HpBar: {fileID: 762089641}
 --- !u!114 &1921136187
 MonoBehaviour:
   m_ObjectHideFlags: 0
